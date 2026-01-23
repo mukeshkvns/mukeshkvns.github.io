@@ -129,7 +129,7 @@ p{
  */
 
 .header{
-    background-image: url(Awesome_Coming_Soon_Template_BG.jpg);
+    background-image: url(./Awesome_Coming_Soon_Template_BG.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;

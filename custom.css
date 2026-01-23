@@ -129,7 +129,7 @@ p{
  */
 
 .header{
-    background-image: url(../img/Awesome_Coming_Soon_Template_BG.jpg);
+    background-image: url(Awesome_Coming_Soon_Template_BG.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
@@ -227,7 +227,7 @@ a.title {
 ================================================ */
 
 .newsletter{
-    background: url(../img/pixel_weave.png);
+    background: url(pixel_weave.png);
 }
 
 .newsletter-wrapper{
@@ -257,7 +257,7 @@ p.spam {
 ================================================ */
 
 .social-media{
-    background:url(../img/social-media-bg1.jpg);
+    background:url(social-media-bg1.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;

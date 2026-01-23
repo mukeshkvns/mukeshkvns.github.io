@@ -227,7 +227,7 @@ a.title {
 ================================================ */
 
 .newsletter{
-    background: url(../pixel_weave.png);
+    background: url(./pixel_weave.png);
 }
 
 .newsletter-wrapper{
@@ -257,7 +257,7 @@ p.spam {
 ================================================ */
 
 .social-media{
-    background:url(../social-media-bg1.jpg);
+    background:url(./social-media-bg1.jpg);
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
